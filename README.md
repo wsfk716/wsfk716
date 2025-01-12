@@ -28,7 +28,7 @@
 
 ### :information_source: Stats
 
-<table>
+<table style="border: 1px solid #d7dee4; border-radius: 10px; ">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=wsfk716&show_icons=true&theme=transparent&hide_border=true" height="200">
