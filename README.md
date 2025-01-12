@@ -28,7 +28,14 @@
 
 ### :information_source: Stats
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=wsfk716&show_icons=true&theme=transparent&hide_border=true" height="200" style="border: 2px solid #d7dee4; border-right: none; border-top-left-radius: 8px; border-bottom-left-radius: 8px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsfk716&layout=compact&hide_border=true" height="200" style="border: 2px solid #d7dee4; border-top-right-radius: 8px; border-bottom-right-radius: 8px;">
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=wsfk716&show_icons=true&theme=transparent&hide_border=true" height="200">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsfk716&layout=compact&hide_border=true" height="200">
+    </td>
+  </tr>
+</table>
 </div>
