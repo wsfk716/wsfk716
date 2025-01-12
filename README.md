@@ -7,8 +7,8 @@
 - :mortar_board: I am currently studying for a master's degree at Jiangnan University in Wuxi, China
 - :computer: I'm passionate about deep learning, Web full stack, and Android
 - :e-mail: Welcome to contact me [here](mailto:tsx716@gmail.com)
-- :video_game: League of Legends and love The Shy
-- :dizzy: Music lover and favorite Eason Chan
+- :video_game: League of Legends, favorite player is The Shy
+- :dizzy: Music lover, favorite singer is Eason Chan
 
 ### :zap: My tech stack
 
