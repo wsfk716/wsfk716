@@ -4,11 +4,20 @@
 
 ### :blush: About me
 
-- :mortar_board: I am currently studying for a master's degree at Jiangnan University in Wuxi, China
-- :computer: I'm passionate about deep learning, Web full stack, and Android
-- :e-mail: Welcome to contact me [here](mailto:tsx716@gmail.com)
-- :video_game: League of Legends
-- :dizzy: Love Eason Chan and The Shy
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; margin-right: 20px;">
+    - 🎓 I am currently studying for a master's degree at Jiangnan University in Wuxi, China<br>
+    - 💻 I'm passionate about deep learning, Web full stack, and Android<br>
+    - 📧 Welcome to contact me [here](mailto:tsx716@gmail.com)<br>
+    - 🎮 League of Legends<br>
+    - 💫 Love Eason Chan and The Shy
+  </div>
+  <div>
+    <a href="https://github.com/kittinan/spotify-github-profile">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b4ymcl6carvszk5zw7n4y7k75i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile">
+    </a>
+  </div>
+</div>
 
 ### :zap: My tech stack
 
